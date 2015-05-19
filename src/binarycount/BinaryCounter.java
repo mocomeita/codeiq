@@ -2,6 +2,7 @@ package binarycount;
 
 public class BinaryCounter {
 	public static void main(String[] args) {
+		// バイナリカウント対象の数字
 		long[] targets = {1000L, 10000000000L};
 		
 		for(long l : targets)
